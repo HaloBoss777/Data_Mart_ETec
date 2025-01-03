@@ -1,0 +1,27 @@
+region_key,region_country,region_province,region_city,REGION_CODE
+0,Unknown,Unknown,Unknown,0
+1,South Africa,KwaZulu-Natal,Durban,10a
+2,South Africa,KwaZulu-Natal,Midlands,10b
+3,South Africa,Free State,N/A,11a
+4,South Africa,Mpumalanga,Ermelo,11b
+5,South Africa,Gauteng,Pretoria,1a
+6,South Africa,Gauteng,Pretoria,1b
+7,South Africa,Gauteng,Pretoria,1c
+8,South Africa,Gauteng,Pretoria,1d
+9,South Africa,Mpumalanga,Witbank,1e
+10,South Africa,Gauteng,N/A,2a
+11,South Africa,Gauteng,Krugersdorp,2b
+12,South Africa,Gauteng,Krugersdorp,2c
+13,South Africa,North West,Rustenburg,2d
+14,South Africa,Gauteng,Soweto,3a
+15,South Africa,Gauteng,Johannesburg,3b
+16,South Africa,Limpopo,Pietersburg,4a
+17,South Africa,Mpumalanga,Nelspruit,4b
+18,Botswana,N/A,N/A,5a
+19,Botswana,N/A,N/A,5b
+20,South Africa,East Cape,N/A,6a
+21,South Africa,Western Cape,N/A,6b
+22,South Africa,Gauteng,Sandton,7a
+23,South Africa,Gauteng,Randburg,7b
+24,South Africa,Gauteng,Midrand,7c
+25,South Africa,Gauteng,Benoni,8a

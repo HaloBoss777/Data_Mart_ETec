@@ -1,0 +1,23 @@
+supplier_key,supplier_name,supplier_exclusive,supplier_credit_limit,SUPPLIER_CODE
+0,Unknown,Not Exclusive,0,999999
+1,DR,Exclusive,0,002
+2,V.I.P.,Exclusive,0,003
+3,DEPT STORES RFC,Exclusive,0,004
+4,DR DEC02,Exclusive,0,005
+5,DR 2002 purch order july02,Exclusive,0,006
+6,DR - SEPT 02,Exclusive,0,007
+7,DR Sg shipment May 2001,Exclusive,0,008
+8,DR june 2002,Exclusive,0,009
+9,DR AUGUST 2001 SHIPMENT,Exclusive,0,010
+10,DR - SHIPMENT NOV 2001/2,Exclusive,0,011
+11,DR JAN 02 AIR SHIP,Exclusive,0,012
+12,DR FEB 02 SEAFREIGHT,Exclusive,0,014
+13,SOUTH CHINA,Exclusive,0,015
+14,ADVERTISING PURCHASES,Exclusive,0,ADAG01
+15,DC FORWARDING,Exclusive,0,DCF001
+16,GLOBAL INTERNET ACCESS,Exclusive,0,GLOB01
+17,LETH TRADING (PTY) LTD,Exclusive,0,LETH01
+18,MADE,Exclusive,0,MADE01
+19,MDPLASTICS (Pty) Ltd,Exclusive,0,MD01
+20,PG MANUFACTURERS,Exclusive,0,PG001
+21,ROYAL CO.,Exclusive,0,ROY001

@@ -1,0 +1,6 @@
+transaction_key,transaction_type
+1,Tax Invoice
+2,Credit Note
+3,Consignment Note
+4,Consignment Credit Note
+5,Consignment Tax Invoice

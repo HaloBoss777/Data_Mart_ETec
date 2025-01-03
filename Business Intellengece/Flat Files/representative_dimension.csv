@@ -1,0 +1,129 @@
+representative_key,representative_identification,representative_type,representative_commision_type,representative_commission,representative_code
+1,0,N/A,N/A,0,0
+2,01,Sales Representative,Sales,0,01
+3,01,Sales Representative,Sales,0.5,010
+4,01,Sales Representative,Sales,0.5,010C
+5,01,Telesales,Sales,0.5,01AME
+6,01,Sales Representative,Sales,0.5,01BJ
+7,01,Sales Representative,Sales,0.5,01BM
+8,01,Sales Representative,Sales,0.5,01C
+9,01,Telesales,Sales,0.5,01CA2
+10,01,Telesales,Sales,0.5,01CAT
+11,01,Telesales,Sales,0.5,01CHE
+12,01,Sales Representative,Gross Profit,0.5,01CM
+13,01,Telesales,Sales,0.5,01CRE
+14,01,Telesales,Sales,0.5,01DIS
+15,01,Telesales,Sales,0.5,01EDN
+16,01,Telesales,Gross Profit,0.5,01EXP
+17,01,Sales Representative,Sales,0.5,01GM
+18,01,Telesales,Sales,0.5,01JUL
+19,01,Sales Representative,Sales,0.5,01LC
+20,01,Telesales,Sales,0.5,01LVD
+21,01,Sales Representative,Sales,0.5,01N
+22,01,Telesales,Gross Profit,0.5,01REP
+23,01,Telesales,Sales,0.5,01S01
+24,01,Telesales,Sales,0.5,01S02
+25,01,Telesales,Sales,0.5,01S03
+26,01,Telesales,Sales,0.5,01S04
+27,01,Telesales,Sales,0.5,01S05
+28,01,Telesales,Sales,0.5,01S06
+29,01,Telesales,Sales,0.5,01S07
+30,01,Telesales,Sales,0.5,01SCG
+31,01,Telesales,Sales,0.5,01SJM
+32,01,Telesales,Sales,0.5,01SMC
+33,01,Telesales,Sales,0.5,01STU
+34,01,Telesales,Sales,0.5,01TOP
+35,01,Sales Representative,Sales,0.5,01VP
+36,01,Telesales,Sales,0.5,01WHO
+37,02,Sales Representative,Sales,0.5,02
+38,02,Sales Representative,Sales,0.5,02C
+39,02,Telesales,Sales,0.5,02CHE
+40,02,Telesales,Sales,0.5,02GAR
+41,02,Telesales,Sales,0.5,02JAS
+42,02,Telesales,Sales,0.5,02JUL
+43,02,Telesales,Sales,0.5,02MYR
+44,02,Telesales,Sales,0.5,02RO*
+45,02,Telesales,Sales,0.5,02ROS
+46,03,Sales Representative,Sales,0.5,03
+47,03,Telesales,Sales,0.5,03BJ*
+48,03,Sales Representative,Sales,0.5,03C
+49,03,Telesales,Sales,0.5,03CHE
+50,03,Telesales,Sales,0.5,03GAR
+51,03,Telesales,Sales,0.5,03JAS
+52,03,Telesales,Sales,0.5,03JUL
+53,03,Telesales,Sales,0.5,03MYR
+54,03,Telesales,Sales,0.5,03PRO
+55,03,Telesales,Sales,0.5,03SGW
+56,04,Sales Representative,Sales,0.5,04
+57,04,Sales Representative,Sales,0.5,04C
+58,04,Telesales,Sales,0.5,04CHE
+59,04,Telesales,Sales,0.5,04GAR
+60,04,Telesales,Sales,0.5,04JAS
+61,04,Telesales,Sales,0.5,04JUL
+62,04,Telesales,Sales,0.5,04MA*
+63,04,Telesales,Sales,0.5,04MYR
+64,05,Sales Representative,Sales,0.5,05
+65,05,Sales Representative,Sales,0.5,05C
+66,05,Telesales,Sales,0.5,05CHE
+67,05,Telesales,Sales,0.5,05GAR
+68,05,Telesales,Sales,0.5,05JAS
+69,05,Telesales,Sales,0.5,05JUL
+70,05,Telesales,Sales,0.5,05MYR
+71,05,Telesales,Sales,0.5,05RA*
+72,05,Sales Representative,Sales,0,05SS
+73,06,Sales Representative,Sales,0,06
+74,06,Sales Representative,Sales,0.5,06C
+75,06,Telesales,Sales,0,06CHE
+76,06,Telesales,Sales,0.5,06EDN
+77,06,Telesales,Sales,0.5,06JUL
+78,06,Telesales,Sales,0.5,06RO*
+79,07,Sales Representative,Sales,0,07
+80,07,Sales Representative,Sales,0.5,07C
+81,07,Telesales,Sales,0.5,07CHE
+82,07,Telesales,Sales,0.5,07EDN
+83,07,Sales Representative,Sales,0.5,07GR
+84,07,Telesales,Sales,0,07JUL
+85,07,Telesales,Sales,0.5,07RO*
+86,10,Sales Representative,Sales,0,10
+87,10,Sales Representative,Sales,0,10C
+88,0,N/A,N/A,0,99999
+89,0,N/A,Sales,0.5,CAT03
+90,0,N/A,Sales,0.5,CAT04
+91,0,N/A,Sales,0.5,CAT06
+92,0,N/A,Sales,0.5,CAT07
+93,0,N/A,Sales,0.5,CITC
+94,0,N/A,Sales,0.5,CLEGA
+95,0,N/A,Sales,0.5,CON10
+96,0,N/A,Gross Profit,0.5,CON2S
+97,0,N/A,Gross Profit,0.5,CON3S
+98,0,N/A,Gross Profit,0.5,CON4S
+99,0,N/A,Gross Profit,0.5,CON5S
+100,0,N/A,Gross Profit,0.5,CON6S
+101,0,N/A,Sales,0.5,CON7S
+102,0,N/A,Gross Profit,0.5,CONS
+103,0,N/A,Gross Profit,0.5,CONS2
+104,0,N/A,Gross Profit,0.5,CONS3
+105,0,N/A,Gross Profit,0.5,CONS4
+106,0,N/A,Gross Profit,0.5,CONS5
+107,0,N/A,Gross Profit,0.5,CONS6
+108,0,N/A,Sales,0.5,CONS7
+109,0,N/A,Gross Profit,0.5,DISC
+110,0,N/A,Gross Profit,0,PROMO
+111,0,N/A,Gross Profit,0,REP
+112,0,N/A,Sales,0,SALE
+113,0,N/A,Gross Profit,0,SAMPL
+114,0,N/A,Gross Profit,0,STAN2
+115,0,N/A,Gross Profit,0,STAN3
+116,0,N/A,Gross Profit,0,STAN4
+117,0,N/A,Gross Profit,0,STAND
+118,0,N/A,Gross Profit,0,STOCK
+119,0,N/A,Gross Profit,0,XX
+120,0,N/A,Gross Profit,0,XXC
+121,0,N/A,Gross Profit,0,ZZZ
+122,0,N/A,Gross Profit,0,ZZZ1
+123,0,N/A,Gross Profit,0,ZZZ2
+124,0,N/A,Gross Profit,0,ZZZ3
+125,0,N/A,Sales,0,ZZZ4
+126,0,N/A,Sales,0,ZZZ5
+127,0,N/A,Gross Profit,0,ZZZ6
+128,0,N/A,Gross Profit,0,ZZZP
